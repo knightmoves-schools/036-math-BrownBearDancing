@@ -7,6 +7,6 @@ let quotient= product / 2;
 document.getElementById("result").innerHTML= quotient % 2;
 
 
-should capture the remainder of product remainder of 2 in a variable named remainder
-should assign the innerHTML of the HTML element with the id result to the quotient
+
+
 
