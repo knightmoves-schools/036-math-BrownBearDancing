@@ -5,7 +5,8 @@ let quotient= product / 2;
 let remainder= quotient % 2;
 
 document.getElementById("result").innerHTML= quotient
-document.getElementById("remainder").innerHTML= remainder;
+document.getElementById("result").innerHTML= remainder;
+
 
 
 
