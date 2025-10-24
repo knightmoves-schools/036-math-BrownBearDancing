@@ -3,7 +3,7 @@ let difference = sum - 2;
 let product = difference * 5;
 let quotient= product / 2;
 
-
+document.getElementById("result").innerHTML= quotient
 document.getElementById("result").innerHTML= quotient % 2;
 
 
